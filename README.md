@@ -1,6 +1,10 @@
 # Parameter Finder
 
+![Image of 648557](https://i.ibb.co/KrMYPhy/648557.jpg)
+
 ![Alt text](https://github.com/Xnuvers007/parfind/blob/main/img/Screenshot_1.png "Command")
+
+# Command
 
 git clone https://github.com/Xnuvers007/parfind
 
@@ -9,17 +13,19 @@ cd parfind
 pip install -r requirements.txt
 
 python3 parameterfinder.py -H <site>
-#  HELP : 
-  usage: parameterfinder.py [-h] -H HOST [-t THREADS] [-c COOKIES [COOKIES ...]]
-                          [-v] [-p PAYLOAD] [-b BURP]
 
-optional arguments:
-  -h, --help            show this help message and exit
-  -H HOST, --host HOST
-  -t THREADS, --threads THREADS
-  -c COOKIES [COOKIES ...], --cookies COOKIES [COOKIES ...]
-  -v, --verbose
-  -p PAYLOAD, --payload PAYLOAD
-  -b BURP, --burp BURP  provide a burp file
+# Example
 
 ![Alt text](https://github.com/Xnuvers007/parfind/blob/main/img/Screenshot_2.png "Example")
+
+# Visit
+
+You can visit [My Tools!](https://github.com/Xnuvers007/expert-winner)
+
+[My Profile and Repository!](https://github.com/Xnuvers007/)
+
+[Spam Wa TOOLS/EXE!](https://github.com/Xnuvers007/SpamWA)
+
+[Dork GOOGLE!](https://github.com/Xnuvers007/DorkGoogle/)
+
+[List Dorks!](https://github.com/xnuvers007/listdork/)
