@@ -1,0 +1,9 @@
+tqdm==4.56.2
+pyfiglet==0.8.post1
+colored==1.4.2
+beautifulsoup4==4.9.1
+urllib3==1.24.3
+regex==2020.9.27
+jsonpickle==0.7.1
+jsonschema==2.6.0
+simplejson==3.17.2
