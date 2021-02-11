@@ -2,6 +2,8 @@
 
 ![Image of 648557](https://i.ibb.co/KrMYPhy/648557.jpg)
 
+please give me a stars and follow me on [Github!](https://github.com/Xnuvers007?tab=followers)
+
 ![Alt text](https://github.com/Xnuvers007/parfind/blob/main/img/Screenshot_1.png "Command")
 
 # Command
