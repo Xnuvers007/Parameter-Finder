@@ -393,7 +393,7 @@ print ("Target URL - " + baseURL)
 for _ in tqdm(range(100),
               desc="Loading...",
               ascii=False, ncols=75):
-    time.sleep(0.01) #loading...
+    time.sleep(5) #loading...
 
 
 
@@ -430,3 +430,6 @@ for i in range(num_threads):
 q.join()
 
 print ("\nProcess Completed")
+print ("Thanks To Xnuvers007")
+
+#Uwuuuu
