@@ -14,7 +14,7 @@ cd parfind
 
 pip install -r requirements.txt
 
-python3 parameterfinder.py -H <site>
+python3 parameterfinder.py -H (site)
 
 # Example
 
